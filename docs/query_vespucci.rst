@@ -14,7 +14,7 @@ We recomend to use either option 2 or 3 unless you need to use the GraphQL endpo
 
 Use the GraphQL endpoint
 ------------------------
-<TODO>
+*GraphQL is an open-source data query and manipulation language for APIs, and a runtime for fulfilling queries with existing data*. The GraphQL interface to access VESPUCCI is `COMPASS <https://compass-.readthedocs.io>`_. The GraphQL endpoint is available at http://compass.fmach.it/graphql.
 
 Use Python package pyCOMPASS
 ----------------------------
