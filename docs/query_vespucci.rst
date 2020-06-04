@@ -18,7 +18,11 @@ Use the GraphQL endpoint
 
 Use Python package pyCOMPASS
 ----------------------------
-<TODO>
+`pyCOMPASS <https://pycompass.readthedocs.io>`_ is the Python interface for the COMPASS GraphQL interface. It is the preferred way to access VESPUCCI for data analysis purpose since it provides with higher level functionalities. You can install pyCOMPASS via PIP:
+
+.. code-block:: python
+
+    pip install pycompass
 
 Use the R package rCOMPASS
 --------------------------
