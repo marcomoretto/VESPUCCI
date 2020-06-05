@@ -9,8 +9,10 @@ You have three options to query VESPUCCI:
  2. use the Python package `pyCOMPASS <https://pycompass.readthedocs.io>`_
 
  3. use the R package rCOMPASS
+ 
+ 4. use the _`Dash application <https://dashcompass.herokuapp.com/>`_
 
-We recomend to use either option 2 or 3 unless you need to use the GraphQL endpoint specifically. Both the Python and R packages provide the same options as the GraphQL endpoint but with all the expressiveness of a higher order programming language
+We recomend to use either option 2 or 3 unless you need to use the GraphQL endpoint specifically. Both the Python and R packages provide the same options as the GraphQL endpoint but with all the expressiveness of a higher order programming language. Option 4 is not meant for data analysis but to showcase how to create tools on top of pyCOMPASS, rCOMPASS or COMPASS directly.
 
 Use the GraphQL endpoint
 ------------------------
@@ -27,3 +29,7 @@ Use Python package pyCOMPASS
 Use the R package rCOMPASS
 --------------------------
 <TODO>
+
+Use the Dash application
+--------------------------
+* _`Dash <https://dash.plotly.com/introduction>`_ is a productive Python framework for building web applications.* The source code for the application is hosted on _`GitHub <https://github.com/marcomoretto/dashcompass>`_ while a running instance is hosted on _`Heroku <https://dashcompass.herokuapp.com/>`_.
