@@ -32,4 +32,4 @@ Use the R package rCOMPASS
 
 Use the Dash application
 --------------------------
-* `Dash <https://dash.plotly.com/introduction>`_ is a productive Python framework for building web applications.* The source code for the application is hosted on `GitHub <https://github.com/marcomoretto/dashcompass>`_ while a running instance is hosted on `Heroku <https://dashcompass.herokuapp.com/>`_.
+`Dash <https://dash.plotly.com/introduction>`_ *is a productive Python framework for building web applications.* The source code for the application is hosted on `GitHub <https://github.com/marcomoretto/dashcompass>`_ while a running instance is hosted on `Heroku <https://dashcompass.herokuapp.com/>`_.
