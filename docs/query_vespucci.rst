@@ -8,7 +8,7 @@ You have three options to query VESPUCCI:
 
  2. use the Python package `pyCOMPASS <https://pycompass.readthedocs.io>`_
 
- 3. use the R package rCOMPASS
+ 3. use the R package `rCOMPASS <https://onertipaday.github.io/rcompass/>`_
  
  4. use the `Dash application <https://dashcompass.herokuapp.com/>`_
 
@@ -28,7 +28,11 @@ Use Python package pyCOMPASS
 
 Use the R package rCOMPASS
 --------------------------
-<TODO>
+`rCOMPASS <https://onertipaday.github.io/rcompass/>`_ is the R interface for the COMPASS GraphQL interface. It is the preferred way to access VESPUCCI for data analysis purpose since it provides with higher level functionalities. You can install rCOMPASS from github:
+
+.. code-block:: R
+
+    devtools::install_github("onertipaday/rcompass")
 
 Use the Dash application
 --------------------------
