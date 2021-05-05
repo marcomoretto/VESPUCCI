@@ -2,7 +2,7 @@ Query VESPUCCI
 ==============
 
 VESPUCCI is accessible via the `COMPASS <https://compass-.readthedocs.io>`_ `GraphQL <https://graphql.org/>`_ interface that has been specifically developed to facilitate data retrivial and analysis of gene expression compendia built with the `COMMAND>_ <https://command.readthedocs.io>`_ technology. 
-You have three options to query VESPUCCI:
+You have four options to query VESPUCCI:
 
  1. use the GraphQL endpoint directly, `COMPASS <https://compass-.readthedocs.io>`_
 
