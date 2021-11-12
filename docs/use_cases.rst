@@ -1,7 +1,7 @@
 Use Cases
 =========
 
-.. warning::
+.. note::
    The following Colab notebooks are public and editing is allowed to specific users only thus in order to use them, logout from your Google account first or use the incognito mode!
 
 
