@@ -1,6 +1,9 @@
 Use Cases
 =========
 
+.. note::
+   The following Colab notebooks are public and editing is allowed to specific users only thus in order to use them, logout from your Google account first or use the incognito mode!
+
  1. In this first excercise we will perform few basic operations with VESPUCCI. We will create a Module starting from few genes and then automatically extend it by adding more genes. We will also have a look at gene and samples annotations. `The use case Notebook is hosted in Google Colab <https://colab.research.google.com/drive/1xx4lVvYPBfXkM6Cq95suyikHhmQJ7atV>`_
  
  2. The second exercise tries to show a more general data analysis pipeline that relies on VESPUCCI for the data but integrates other tools and an packages, such as `Scikit-learn <https://scikit-learn.org/stable/>`__, used to fit a Gaussian Mixture Model and `GOAtools <https://github.com/tanghaibao/goatools>`_ used for the Gene Ontology Enrichment. Everything is seamlessly integrated in one analysis workflow that ca be explored in `this Notebook hosted in Google Colab <https://colab.research.google.com/drive/1lm9fyWcudiKZac91gR6i2B2NbtfFRMDy>`_.
