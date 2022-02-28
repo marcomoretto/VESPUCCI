@@ -23,6 +23,10 @@ How to cite
 
 If you use VESPUCCI and find it useful please cite:
 
+Moretto, M. et al. (2022). *A COMPASS for VESPUCCI: A FAIR Way to Explore the Grapevine Transcriptomic Landscape.* Frontiers in plant science, 13:815443. `10.3389/fpls.2022.815443 <https://doi.org/10.3389/fpls.2022.815443>`_
+
+OR
+
 Moretto, M. et al. (2016). *VESPUCCI: exploring patterns of gene expression in grapevine.* Frontiers in plant science, 7, 633. `doi 10.3389/fpls.2016.00633 <https://www.frontiersin.org/articles/10.3389/fpls.2016.00633/full>`_
 
 
